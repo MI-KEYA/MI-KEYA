@@ -1,16 +1,8 @@
 ### Hi there, I'm Monia 👋
 
-I'm a passionate **Full Stack Web Developer** and a **Software Engineering student** majoring in Data Science at **Daffodil International University**.
+I'm a passionate ** Web Developer** and a **Software Engineering student** majoring in Data Science at **Daffodil International University**.
 
-🚀 I enjoy building full-stack web applications that solve real-world problems, and I'm always learning new technologies to improve my skills.
-
----
-
-### 🌱 What I'm Currently Working On
-
-- 🚧 Developing **AthleticHub** – an athletic event booking platform built with React, Firebase Auth, Tailwind, and Express.js.
-- 📚 Strengthening my backend skills with **Node.js**, **Express**, and **MongoDB**.
-- 💡 Exploring system design, clean code, and performance optimization.
+🚀 I enjoy building web applications that solve real-world problems, and I'm always learning new technologies to improve my skills.
 
 ---
 
@@ -46,13 +38,6 @@ I'm a passionate **Full Stack Web Developer** and a **Software Engineering stude
 
 ---
 
-### 📫 How to Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/moniaislam/)  
-- 📨 Email: monia.islam.dev@gmail.com  
-- 🐙 GitHub: [@MoniaIslam](https://github.com/MoniaIslam)
-
----
 
 ### 📝 Fun Fact
 
