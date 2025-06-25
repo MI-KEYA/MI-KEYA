@@ -1,6 +1,6 @@
 ### Hi there, I'm Monia 👋
 
-I'm a passionate ** Web Developer** and a **Software Engineering student** majoring in Data Science at **Daffodil International University**.
+I'm a passionate **Web Developer** and a **Software Engineering student** majoring in Data Science at **Daffodil International University**.
 
 🚀 I enjoy building web applications that solve real-world problems, and I'm always learning new technologies to improve my skills.
 
