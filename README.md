@@ -33,8 +33,13 @@ I'm a passionate ** Web Developer** and a **Software Engineering student** major
 
 ### 📈 GitHub Stats
 
-![Monia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoniaIslam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniaIslam&layout=compact&theme=radical)
+### 📈 GitHub Stats
+
+![MI-KEYA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MI-KEYA&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MI-KEYA&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MI-KEYA&theme=radical)
 
 ---
 
