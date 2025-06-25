@@ -44,5 +44,5 @@ I'm a passionate **Web Developer** and a **Software Engineering student** majori
 
 ### 📝 Fun Fact
 
-> I love turning coffee ☕ into code 💻 — and I'm always up for a good debugging challenge!
+> 📚 I love diving into code and books every day — no coffee needed!
 
